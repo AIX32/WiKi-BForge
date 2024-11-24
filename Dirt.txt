@@ -1,0 +1,31 @@
+Dirt is one of the most basic and common blocks in bloxd.io, often used in a variety of builds and gameplay scenarios due to its simplicity and availability.
+
+Overview
+Type: Block
+Rarity: Common
+Stack Size: 999
+Tool Required: None
+
+Appearance
+Dirt has a brownish texture with a slightly grainy and earthy appearance. It resembles natural dirt found in real-world environments, making it ideal for landscaping or creating nature-themed builds.
+
+Obtaining
+Natural Generation:
+Dirt can be found abundantly on the surface and underground layers of most biomes in bloxd.io.
+
+Crafting:
+Dirt cannot be crafted.
+
+Drops:
+Dirt drops itself when mined, even without a tool.
+
+Uses
+
+Building:
+Dirt is often used as a placeholder block for construction or as a cheap material for builds.
+
+Terraforming:
+It is commonly utilized in creating landscapes or modifying terrain for aesthetic or functional purposes.
+
+Farming:
+When converted into farmland (requires a hoe), dirt can support crops for farming.
