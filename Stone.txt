@@ -1,0 +1,31 @@
+Stone is one of the most basic building blocks in bloxd.io, commonly found underground or in caves. It serves as an essential resource for crafting tools, building materials, and other essential blocks for progression in the game.
+
+Overview
+Type: Block
+Stack Size: 999
+Tool Required: Pickaxe
+
+Appearance
+
+Stone has a light gray, solid texture with a dots and smooth surface. It has no distinct features, making it a neutral and adaptable material in most builds.
+
+Obtaining
+
+Natural Generation:
+Stone is commonly found in the lower layers of most biomes, 4 blocks under surface.
+
+Crafting:
+Stone cannot be crafted directly, but it can be crafted into stone bricks and other blocks.
+
+Drops:
+Stone drops itself when mined with a pickaxe. If mined with other tools, it does not drop anything.
+Uses
+
+Building:
+Stone is often used for constructing sturdy structures, walls, and flooring. It is also used to craft stone bricks for more refined builds.
+
+Terraforming:
+Stone is useful for reinforcing and stabilizing terrain, especially in mountainous or cave areas.
+
+Farming:
+Stone doesn’t have a direct use in farming, but it is essential for crafting tools like the stone hoe.
