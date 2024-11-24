@@ -1,0 +1,33 @@
+Grass is a vital block in bloxd.io, commonly found on the surface of most biomes. 
+It plays an essential role in natural landscaping and provides a foundation for farming and other gameplay elements.
+
+Overview
+
+Type: Block
+Stack Size: 999
+Tool Required: None
+
+Appearance
+Grass has a light green texture with a soft, with plus like texture on the surface, giving it a natural and organic look. It is often associated with outdoor environments and blends well with dirt and other natural blocks.
+
+Obtaining
+Natural Generation:
+Grass naturally generates on the surface of most biomes, typically on dirt blocks in open areas exposed to sunlight.
+
+Crafting:
+Grass cannot be crafted.
+
+Drops:
+Grass drops when broken, or when sheared with shears, it will drop a grass block. The dirt block underneath will return to grass after 25 seconds.
+
+
+Uses
+
+Building:
+Grass is commonly used in landscaping and decorating natural environments. It is essential for creating outdoor scenes.
+
+Terraforming:
+Grass is integral in creating grassy plains, jungles when modifying terrain.
+
+Farming:
+Grass can occasionally drop seeds when interacted with, and it is essential for supporting crops when converted into farmland.
