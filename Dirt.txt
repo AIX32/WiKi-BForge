@@ -2,7 +2,6 @@ Dirt is one of the most basic and common blocks in bloxd.io, often used in a var
 
 Overview
 Type: Block
-Rarity: Common
 Stack Size: 999
 Tool Required: None
 
