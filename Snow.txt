@@ -1,0 +1,33 @@
+Snow
+A soft, white block that is found in snowy biomes, forming a layer over the terrain. Snow blocks are solid.
+
+Overview
+Type: Block
+Stack Size: 999
+Tool Required: Shovel
+
+Appearance
+The snow block is a solid white cube with a gray'ish tint to it. It has a smooth appearance and lacks any additional colors or patterns.
+
+Obtaining
+Natural Generation:
+
+Found naturally in snowy biomes, forming thin layers on the ground.
+Also appears atop mountains in higher elevations.
+Crafting:
+
+It is not creaftable.
+
+Drops:
+When mined, it drops itself.
+
+Uses
+
+Building:
+Used to create clean, smooth white surfaces for building snowy-themed structures or decorations.
+
+Terraforming:
+Can be used to simulate snow-covered terrain or winter-themed landscapes.
+
+Farming:
+Can be used to craft snow golems, which help repel hostile mobs in certain situations.
