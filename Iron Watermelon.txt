@@ -1,0 +1,26 @@
+A unique Easter egg block that combines the appearance of a watermelon with the utility of iron.
+
+Overview
+Type: Decorative/Easter Egg
+Stack Size: 999
+Tool Required: Stone pickaxe and higher.
+
+Appearance
+The Iron Watermelon resembles a standard watermelon but is tinted white, giving it a metallic sheen.
+
+Obtaining
+
+Natural Generation:
+The Iron Watermelon does not occur naturally; instead, it can be created through the farming of watermelons.
+There is a 1 in 10,000 chance of getting an Iron watermelon instead of a normal one.
+ 
+Crafting:
+Not craftable
+
+Uses
+
+Crafting Materials:
+Uncrafting an Iron Watermelon produces 128 Iron Bars, making it a valuable resource.
+
+Decoration:
+Can be used as a decorative block in builds due to its unique appearance.
