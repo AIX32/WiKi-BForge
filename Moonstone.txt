@@ -1,0 +1,37 @@
+A rare and magical resource with various crafting applications in Bloxd.io.
+
+Overview
+Type: Ore
+Stack Size: 999
+Tool Required: Pickaxe (to mine Moonstone Ore)
+
+Appearance
+Moonstone has a glimmering, mystical appearance, often with a luminescent glow that makes it distinct from other ores.
+
+Obtaining
+Natural Generation:
+Moonstone Ore can be found deep underground at y-level -85. Mining this ore yields 1 Moonstone.
+
+Crafting:
+Moonstone is integral to several unique items:
+
+Moonstone Pickaxe: Used to obtain exact block drops, crafted with 3 Moonstone and 1 plank.
+Moonstone Orb: A throwable item for teleportation, crafted using 1 Reinforced Pebble and 1 Moonstone.
+Moonstone Chest: Functions like an Ender Chest, allowing private item storage, crafted with 2 Moonstone.
+Moonstone Explosive: A powerful block-destroying tool, crafted with 1 Moonstone and 10 Sand.
+Block of Moonstone: Compressed storage of 9 Moonstone.
+Uses
+Crafting Applications:
+
+Craft tools, teleportation devices, and explosives.
+Building:
+
+Decorative blocks like the Block of Moonstone.
+Gameplay:
+
+Essential for strategies in modes like Bedwars, where Moonstone Generators provide resources for team upgrades.
+Trivia:
+
+Moonstone tools like axes and swords were once craftable but have been removed.
+Moonstone Explosives destroy most blocks except for Obsidian and Bedrock.
+Moonstone's rarity and versatility make it a highly sought-after material in Bloxd.io
