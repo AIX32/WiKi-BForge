@@ -25,7 +25,7 @@ Mining Iron Ore with a stone pickaxe or higher drops Raw Iron.
 Uses
 
 Building:
-Iron blocks, crafted from 9 iron ingots, can be used as decorative blocks or in structures like beacon bases.
+Iron blocks, crafted from 9 iron ingots, can be used as decorative blocks or in modern structures.
 
 Terraforming:
 Iron tools, such as shovels and pickaxes, are fundamental for efficient terraforming and excavation.
