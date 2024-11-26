@@ -1,0 +1,16 @@
+The pig is the only mob in bloxd.io
+
+Overview
+Type: Passive Mob
+Drops: Raw Porkchop
+Spawn Biomes: Forests (rare), Plains (fairly rare), Meadows (not so rare)
+
+Appearance
+Pigs are pink, grunting creatures resembling their real-life counterparts, often moving in small herds.
+
+Obtaining
+Natural Generation: Pigs spawn naturally in specific biomes such as Forests, Plains, and Meadows.
+Breeding: Currently not available.
+
+Uses
+Food: Pigs drop Raw Porkchops, which players can cook for sustenance.
