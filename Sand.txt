@@ -1,0 +1,30 @@
+A basic, commonly found block in Bloxd.io, often used in crafting and building.
+
+Overview
+Type: Block
+Stack Size: 999
+Tool Required: None (can be mined by hand)
+
+Appearance
+Sand blocks are tan with a grainy texture, resembling sand in real life. They have a soft, pale yellow color.
+
+Obtaining
+Natural Generation:
+Sand is naturally generated in beach biomes, desert areas, and along riverbanks. It can be found on the surface and is abundant in these locations.
+
+Crafting:
+
+Glass: Smelt Sand in a furnace to create Glass, an essential material for crafting windows, bottles, and more.
+Drops:
+
+Sand drops when mined without a tool, yielding one block of Sand per mining action.
+Uses
+Building:
+
+Sand is primarily used for building, and when smelted, it turns into Glass, which is widely used in architectural designs.
+Terraforming:
+
+Sand is often used in landscaping for beach and desert-themed builds. It can also be used to create desert biomes or sandy environments.
+Crafting:
+
+Sand is a key ingredient for crafting glass and concrete, which are used in many building designs.
