@@ -1,0 +1,13 @@
+Wood in bloxd.io is a versatile resource used for crafting, building, and decoration. Each type is found in specific biomes and can be processed into planks or used directly.
+
+Types of Wood:
+
+- Maple: Found in forests, plains, and tundras. Used to make Maple Planks and crafted items.
+- Aspen: Found in Aspen Forests, convertible to Aspen Planks.
+- Plum: Found in Plum Forests, produces Plum Planks.
+- Pine: Found in Pine Forests and taigas, used for Pine Planks.
+- Cedar: Found in similar biomes as Pine, for Cedar Planks.
+- Elm: Found in Exotic Forests, yields Elm Planks.
+- Palm: Located in Exotic Forests, creates Palm Planks.
+- Pear: Found in Pear Forests, produces Pear Planks.
+- Cherry: Found in Cherry Forests, used to craft Cherry Planks.
