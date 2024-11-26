@@ -1,0 +1,30 @@
+A basic and essential item for various crafting recipes and gameplay interactions.
+
+Overview
+Type: Item
+Stack Size: 999
+Tool Required: Pickaxe (or higher)
+
+Appearance
+The Coal item features a dark gray texture, resembling a chunk of coal, with slight pixelation that highlights its rough, natural form.
+
+Obtaining
+Natural Generation:
+Coal naturally generates in the game world, typically found within stone blocks at lower elevations. It can be mined with a pickaxe or higher-tier tools.
+
+Crafting:
+Coal cannot be crafted directly from other items.
+
+Drops:
+Coal drops when mining coal ore blocks, typically yielding 1 to 3 coal per mined block. It may drop more with the right equipment, like an enchanted pickaxe.
+
+Uses
+
+Building:
+Coal is primarily used in crafting recipes and as a fuel source. It can also be placed as a block to create aesthetic and functional designs in building.
+
+Terraforming:
+Coal can be used in furnaces or as a fuel source for smelting and cooking in crafting, especially when working on projects involving metal or other materials.
+
+Farming:
+While not used directly in farm
