@@ -1,0 +1,13 @@
+Leaves in bloxd.io are decorative blocks obtained from trees. They can be used for landscaping, crafting, or as renewable resources.
+
+Types of Leaves
+
+- Maple Leaves: Found in Maple Forests. Drops Maple Saplings and Apples.
+- Aspen Leaves: Found in Aspen Forests. Drops Aspen Saplings and Apples.
+- Plum Leaves: Found in Plum Forests. Drops Plum Saplings and Plums.
+- Pine Leaves: Found in Pine Forests and Taigas. Drops Pine Saplings and Apples.
+- Cedar Leaves: Found in Pine Forests and Taigas. Drops Cedar Saplings and Apples.
+- Elm Leaves: Found in Exotic Forests. Drops Elm Saplings and Apples.
+- Palm Leaves: Found in Exotic Forests. Drops Palm Saplings and Coconuts.
+- Pear Leaves: Found in Pear Forests. Drops Pear Saplings and Pears.
+- Cherry Leaves: Found in Cherry Forests. Drops Cherry Saplings.
