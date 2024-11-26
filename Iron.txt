@@ -1,0 +1,34 @@
+Iron is a versatile and widely used resource, essential for crafting tools, armor, and various functional blocks in the game.
+
+Overview
+Type: Mineral
+Stack Size: 999
+Tool Required: Stone Pickaxe or higher
+
+Appearance
+Iron is depicted as a dull gray metal. Iron ingots feature a smooth, shiny rectangular shape, while iron ore and raw iron are rough and textured, with streaks of brownish-orange representing oxidation.
+
+Obtaining
+
+Natural Generation:
+Iron ore is commonly found between levels -10 to -50 in underground layers, often in veins of 1–5 ores. In deepslate layers, it generates as deepslate iron ore.
+
+Crafting:
+Iron cannot be directly crafted but must be smelted:
+
+Smelting Iron Ore in a furnace yields Iron Ingots.
+
+Drops:
+
+Mining Iron Ore with a stone pickaxe or higher drops Raw Iron.
+
+Uses
+
+Building:
+Iron blocks, crafted from 9 iron ingots, can be used as decorative blocks or in structures like beacon bases.
+
+Terraforming:
+Iron tools, such as shovels and pickaxes, are fundamental for efficient terraforming and excavation.
+
+Farming:
+Iron is essential for crafting tools like hoes and shears, which are critical for advanced farming setups. It is also used to create buckets for water and pistons for automated farms.
