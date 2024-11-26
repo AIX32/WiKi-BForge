@@ -1,0 +1,30 @@
+Diamonds are a rare and highly valuable resource used for crafting powerful tools, armor, and various other items in the game.
+
+Overview
+Type: Mineral
+Stack Size: 999
+Tool Required: Iron Pickaxe or higher
+
+Appearance
+Diamonds are represented as shiny blue gemstones with sharp, angular facets, giving them a crystalline look. Their texture features a gradient of light to dark blue tones with a slight shimmer.
+
+Obtaining
+Natural Generation:
+Diamonds can be found in underground layers of the world, typically between levels 5–12. They are most commonly located in veins of 1–8 ores, surrounded by stone or deepslate.
+
+Crafting:
+Diamonds cannot be crafted. They are exclusively mined from diamond ore or obtained through other gameplay mechanics such as trading.
+
+Drops:
+When diamond ore is mined using an iron pickaxe or higher, it drops 1 diamond. Using a pickaxe enchanted with Fortune increases the number of diamonds dropped.
+
+Uses
+
+Building:
+Diamonds themselves are not used for building, but blocks of diamond, crafted from 9 diamonds, can be used as a decorative building block.
+
+Terraforming:
+Diamonds have no direct role in terraforming but are essential for creating tools that aid in terrain modification.
+
+Farming:
+Diamonds are not used directly in farming but are required to craft advanced tools such as hoes for efficient farming setups.
