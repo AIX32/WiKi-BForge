@@ -1,0 +1,96 @@
+Developer Blocks and Items
+
+Developer Blocks and Items are unique elements within the game that are not naturally available in Open-Worlds. These items and blocks are specifically utilized by developers for creating maps, gamemodes, and other in-game features. While generally inaccessible to regular players, a few exceptions exist where some exclusive blocks are available in specific game modes like One Block and Doodle Cube, or can be obtained through glitches. These blocks cannot be crafted and were once obtainable using Fireballs in Greenville. Today, they are only accessible through hacking, glitches, or interactions with players possessing these "illegal items."
+
+List of Developer Blocks and Items
+
+Blocks
+
+Green Stone
+
+Found in: Greenville, Hide and Seek
+
+Info: N/A
+
+Green Bricks
+
+Found in: Murder Mystery, Greenville (crafted), Bedwars Duos
+
+Info: N/A
+
+Dark Green Bricks
+
+Found in: Murder Mystery, Hide and Seek, Bedwars Duos
+
+Info: Texture variant
+
+Dim Lamp On
+
+Found in: Greenville, Infection, Pirates, Murder Mystery
+
+Info: Not illegal in Bloxd Hop, referred to as Blocker
+
+Dim Lamp Off
+
+Found in: Greenville, Bedwars Duos
+
+Info: N/A
+
+Wither Rose
+
+Found in: Greenville
+
+Info: N/A
+
+Lily of the Valley
+
+Found in: Infection, Greenville
+
+Info: N/A
+
+Azure Bluet
+
+Found in: Greenville, Walls, Factions, Cube Warfare, Sky Wars (not illegal), One Block, Bloxd Hop, Murder Mystery, Hide and Seek
+
+Info: Occasionally found illegally in Worlds
+
+Items
+
+Artisan Axe
+
+Found in: Only available in the game's source code
+
+Info: N/A
+
+Moonstone Axe
+
+Found in: Only available in the game's source code
+
+Info: N/A
+
+Artisan Shears
+
+Found in: Only available in the game's source code
+
+Info: N/A
+
+Additional Information
+
+Dim Lamp On: Known as "Blocker," this was the first item introduced to the game.
+
+Illegal Flowers: Certain flowers, like Forget-me-not and Allium, are not available in Greenville. However, they can still be produced through farming mechanics.
+
+Mushroom Blocks: Once considered illegal, Red and Brown Mushroom Blocks were legalized as of May 17, 2024. However, their respective mushrooms remain prohibited in Greenville.
+
+Cyan Ceramic: Initially excluded due to a Creeper face texture, the block was later added after texture modifications.
+
+Barkless Logs: Previously illegal, these can now be acquired by right-clicking logs with an axe. Before this update, they were only obtainable by using Fireballs in specific scenarios.
+
+Invisible Solid: Functions as a barrier block and cannot be mined conventionally. It regenerates immediately unless broken using Moonstone Explosives or certain creative tools.
+
+Hidden Blocks: Blocks like Emerald and Lapis Lazuli are hidden in towers near Aspen Forest in the Greenville gamemode.
+
+Water Blocks: Obtainable in Sky Wars by repeatedly using a water bucket.
+
+These blocks and items, while intriguing, serve as both a utility for developers and a challenge for players to discover and understand their origins and uses.
+
