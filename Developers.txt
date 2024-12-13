@@ -1,0 +1,109 @@
+The game Bloxd.io has seen the involvement of several developers since its creation, with each contributing unique gamemodes, features, and updates to the platform. Below is a list of the key developers who have worked on Bloxd.io.
+
+1. Arthur
+Full Name: Arthur Benedict Baker
+Arthur is the creator of Bloxd.io and the mastermind behind the game's engine, which was developed using "noa," a free and open-source game engine. He is responsible for many of the game’s features and has created over 15 different gamemodes for the platform.
+
+Gamemodes Created by Arthur
+Evil Tower
+Doodle Cube
+Cube Warfare
+Peaceful
+Bloxd (Gamemode)
+Survival
+Creative
+Bedwars
+Worlds
+Duels
+Hide and Seek
+The Pit
+TestMode
+Conqueror
+
+Arthur's Clever Dev-Selecting Mechanic
+
+Arthur has a unique method for selecting new developers for Bloxd.io. According to leaked information by Dirty Flea Sack, new developers must first create a gamemode that is added as a temporary Limited Time Mode (LMT). The feedback from players is observed, and if successful, the developer then creates another gamemode that gets put to a vote. If it receives positive feedback, the developer is officially added to the team.
+
+2. Weiqing
+Weiqing was the initial developer of Bloxd Hop, the first publicly available game built using the Bloxd.io engine. Although Arthur originally created the game engine, Weiqing contributed to the creation of Bloxd Hop, and later, Arthur took over its development.
+
+Gamemodes Created by Weiqing
+Bloxd Hop (Partially)
+
+3. Mattzap
+Mattzap is a close friend of Arthur and the third developer to join the Bloxd.io team. He is responsible for creating several gamemodes and has contributed to Limited Time Modes. Mattzap has also developed the game mageclash.io.
+
+Gamemodes Created by Mattzap
+One Block
+Greenville
+Murder Mystery
+The Pit
+Trivia
+Mattzap appears in One Block events, where players must type or unscramble his name.
+Mattzap is now a "Business Dev" and no longer maintains certain gamemodes such as Greenville, One Block, and Murder Mystery, which are now handled by the Bloxd.io team.
+
+4. stardue (Ex-Developer)
+Stardue (real name Miranda Girling) was an early developer of Bloxd.io, contributing to coding and development alongside Arthur. She was a key figure during her time on the team, creating several unique items and gamemodes before leaving in November 2024.
+
+Gamemodes Created by stardue
+Sky Wars
+Prison
+Plots
+Rush Racing
+Items Created by stardue
+The Compass (for Sky Wars mode)
+The Book (now removed, featured a humorous message from stardue)
+Name Tags
+Boats
+Cotton
+Hang Glider
+Trivia
+stardue contributed several "mean" Easter eggs, including hidden messages referencing her and Arthur.
+She was the second developer mentioned in the Bloxd.io loading screen messages.
+
+5. Dirty Flea Sack
+Dirty Flea Sack joined the team in January 2024 and contributed new gamemodes such as Pirates and Survival Royale. He has been a somewhat controversial figure due to the reception of his gamemodes within the community.
+
+Gamemodes Created by Dirty Flea Sack
+Pirates
+Survival Royale
+Factions
+Anarchy
+Trivia
+Survival Royale faced criticism due to bugs and performance issues, particularly when handling large player counts.
+He was humorously referenced in loading screen messages that questioned if flea sacks are always dirty.
+
+6. Oliver
+Oliver is a newer developer who created two popular gamemodes: Walls and Infection. He is also responsible for several features aimed at improving user experience.
+
+Gamemodes Created by Oliver
+Walls
+Infection
+Bingo (unconfirmed)
+Features Added by Oliver
+Language settings for translations
+Custom key bindings
+Player list/leaderboard accessed by pressing "G"
+Friend tab
+Bobbing and customizations to the pixelated font
+Better Texture packs
+
+7. Nick/pixelbaker
+Nick, also known as pixelbaker on Discord, is a recent addition to the Bloxd.io team. While he is not a programmer, he helps with various updates and game features. Prior to joining the team, Nick worked on major projects like Hypixel and Adopt Me on Roblox.
+
+Gamemodes Created by pixelbaker
+Bingo (unconfirmed)
+Contributions
+Assisted with the Bedwars update alongside Slushie.
+
+8. Tom
+Tom is a relatively new developer who joined the Bloxd.io team after Nick. He worked on reintroducing the Bingo gamemode and is believed to be working on additional gamemodes, including a rumored Rocket Obby game.
+
+Gamemodes Created by Tom
+Solo Bingo (Partially)
+Rocket Spleef (Believed)
+Rocket Obby
+
+9. Slushie
+Slushie is a recent developer who joined in October 2024. Little is known about their contributions so far, but they have worked on updates for the Bedwars gamemode alongside pixelbaker.
+
