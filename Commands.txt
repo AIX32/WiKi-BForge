@@ -1,0 +1,81 @@
+Commands
+
+Commands in various game modes offer players a variety of functionalities that can enhance gameplay, manage private worlds, and interact with the environment. These commands may be typed in the chat or accessed from the utility menu by pressing [B]. Some commands are available only in certain game modes, while others may be blocked by the owner in Worlds lobbies. Below is a comprehensive guide to the different categories of commands.
+
+Command	Function	Type in   Chat
+/spawn	Teleports you to the lobby spawn	Chat
+/tprequest [playerName?]	Request to teleport to a specific player	Chat
+/tpaccept	Accept a teleport request	Chat
+/tpdeny	Deny a teleport request	Chat
+/home [name]	Teleport to a named home	Chat
+/delhome [name]	Delete a named home	Chat
+/sethome [name]	Set a home with a custom name	Chat
+/homes	View your set homes	Chat
+/players	List all players in the current lobby	Chat
+/protectors	Show the location of your protectors	Chat
+/timetillreset	Displays time remaining until world reset	Chat
+/ignore [playerName?]	Block or unblock a player's messages	Chat
+/report [playerName?]	Report a player for inappropriate behavior	Chat
+2. Owner Commands (Private Worlds)
+These commands are exclusive to world owners and give them more control over the world and player interactions. They can be accessed by pressing [B] or typing in the chat.
+
+Command	Function	Type in Chat
+/ownerhelp	Displays a list of owner commands	Chat
+/tp pos [x] [y] [z]	Teleports the owner to specified coordinates	Chat
+/defaultgamemode [gamemode]	Set the default game mode for new players	Chat
+/gamemode [gamemode] [PlayerName]	Set a player's game mode	Chat
+/hardcore	Display hardcore-related commands	Chat
+/togglekeepinven	Enable/disable inventory retention after death	Chat
+/setspawn	Set the lobby spawn location	Chat
+/toggleopen	Make the lobby public or private	Chat
+/description [desc]	Set the game description when the lobby is public	Chat
+/ban [name]	Ban a player from the lobby	Chat
+/unban [name]	Unban a player	Chat
+/whoisbanned	View the list of banned players	Chat
+/kick [name]	Kick a player from the lobby	Chat
+/kickall	Kick all players from the lobby	Chat
+/toggle homes	Enable or disable private home setting for players	Chat
+/worldborder [radius or off]	Set the world border radius	Chat
+Hardcore Commands
+These are specific to hardcore game modes and involve features like health regeneration, banning after death, and lifesteal mechanics.
+
+Command	Function	Type in Chat
+/toggle hardcore	Toggle hardcore mode on/off	Chat
+/hardcore toggleregen	Toggle health regeneration in hardcore mode	Chat
+/hardcore lifesteal [health amount]	Set the amount of health a player can steal from others	Chat
+/hardcore tempban [duration in hours]	Temporarily ban a player after death	Chat
+/hardcore toggleownerban	Toggle banning of the owner after death	Chat
+Tribe Management (Utilities in B menu)
+These commands relate to managing tribes within the world.
+
+Name 	 Description 	 Function
+Set Tribe Home	Set a home for your tribe	B menu
+Invite Player	Invite a player to your tribe	B menu
+Toggle Member PvP	Enable/disable PvP between tribe members	B menu
+Disband Tribe	Disband the tribe	B menu
+3. Game Mode Exclusive Commands
+These commands are only available in specific game modes. Each game mode offers unique features, including PvP, level tracking, and world interactions.
+
+Command	Function	Game Mode(s)	Type in Chat/Use in B menu
+Rename Island	Rename your island	One Block	B menu
+/add [player name]	Allow a player to edit your island/house	One Block, Greenville	B menu
+/remove [player name]	Prevent a player from editing your island/house	One Block, Greenville	B menu
+/kill	Kill yourself	One Block, Greenville	Chat
+/level	View your level and experience	Evil Tower	Chat
+/rules	Display game rules	Evil Tower	Chat
+/rtv	Vote to change maps	Bloxd Hop	Chat
+/r	Reset the map to the start	Rocket Obby	Chat
+/played	See your playtime	Bloxd Hop	Chat
+
+Non-working Commands
+
+Some commands are either disabled or non-functional in certain game modes.
+
+/home in Murder Mystery
+The /home command does not work in Murder Mystery mode. Attempting to use it will display an error message. This is likely a glitch since homes aren't supported in Murder Mystery.
+
+/hide in Evil Tower and Bloxd Hop
+The /hide command does not work in these modes. Players should use the [F] key instead.
+
+Ping in Plots
+The "ping" command is listed but does not function in Plots. A message will prompt users to try using the "ping [message]" command, but this feature is non-functional.
