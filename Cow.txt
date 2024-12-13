@@ -1,0 +1,38 @@
+Overview
+
+The Cow mob was officially added to Bloxd.io on November 29, 2024, making it the second mob introduced to the game. This mob primarily spawns in forested biomes and grass biomes. Its addition, along with the Sheep mob, was first announced on the Bloxd.io Discord server.
+
+Spawning
+
+Cows spawn in groups of 3-5 within forested and grassy biomes.
+
+Drops
+
+Raw Beef
+
+Raw Beef Texture:
+Cows have a 40% chance of dropping Raw Beef upon death, which can increase with critical hits. Initially, the drop rate was 100%, but it has been adjusted to 38.5% after further balancing.
+
+Usage:
+Raw Beef cannot be consumed directly. It must be cooked into Steak using a Furnace.
+
+Steak
+
+Steak Texture:
+To craft Steak, combine 1 Raw Beef with 1 Coal in a Furnace.
+
+Health
+
+Cows possess 100 HP, equivalent to twenty-five punches (each dealing 4 damage). They can be defeated in three hits with a Diamond Sword or Gold Sword, making them comparable to players in terms of durability. Due to their resilience, cows can be a valuable mob for combat practice.
+
+Milking
+
+Players can milk a Cow by interacting with it using a Glass Bottle. However, repeated milking deals damage to the Cow, limiting how often it can be milked.
+
+Sound
+
+Cows are characterized by their loud mooing sound.
+
+Movement
+
+Cows exhibit pathfinding behavior similar to pigs. They occasionally walk in a straight line, providing a simple yet realistic movement pattern.
