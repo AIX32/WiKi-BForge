@@ -1,0 +1,17 @@
+The Start of Bloxd.io
+Bloxd.io is a sandbox game where players have the freedom to do anything, from creating to exploring in an open-world environment. It all started with the creation of bloxdhop.io, a mini-parkour game, by developer Weiqing. As the game grew, Weiqing handed ownership to Arthur, who transformed the game into what we now know as Bloxd.io, adding several new features and gamemodes to enhance the experience.
+
+The Early Days: BloxdHop and the First Gamemodes
+Weiqing's initial creation, BloxdHop, was a simple parkour game. After Arthur took over the game, he began to expand its possibilities by introducing new and innovative game modes. The first of these was EvilTower, followed by DoodleCube and CubeWarfare.
+
+A Peaceful Hit: Peaceful Mode
+After the introduction of the first few game modes, Peaceful mode became a major hit. Drawing inspiration from Minecraft, this mode allowed players to experience a more relaxed gameplay style without the threat of combat. Players could access blocks, tools, caves, ores, and more, all within a persistent open-world environment. The absence of weapons created a peaceful experience, making it a fan favorite.
+
+Worlds: A New Era of Creation
+The Worlds gamemode followed as one of the next big updates. It allowed players to create and own their own worlds. Being a world owner gave players significant power, including the ability to kick and ban other players, change game modes, and more. An update to Worlds introduced new building materials like glass, doors, trapdoors, and water buckets. Additionally, protectors were added, which would create a protective zone around a 32 x 96 x 32 chunk where players could not break blocks, place blocks, or open chests, ensuring the safety of their creations.
+
+The Rise of Survival Mode
+Next came the introduction of Survival mode, which became another massive hit. Unlike Peaceful, Survival allowed players to craft weapons and tools, including powerful swords. This change brought a new level of excitement, as players could engage in combat and experience the thrill of surviving in a dangerous world. The diamond sword, in particular, became legendary, capable of three-hitting players even to this day.
+
+The Birth of Creative Mode
+To give players even more freedom to build and create, Creative mode was introduced. This gamemode provided players with almost unlimited resources to construct massive structures and experiment with the game's mechanics. Initially, protectors in Creative had to be crafted with diamonds, but Arthur later introduced a new system where players could obtain protectors from the creative inventory simply by placing or breaking enough blocks. This feature gave creative players even more tools to protect their builds and explore their imaginations without limitations.
