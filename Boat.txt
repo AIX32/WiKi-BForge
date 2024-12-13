@@ -1,0 +1,34 @@
+
+Boat
+
+A Boat is a drivable vehicle entity used for fast transport of players over bodies of water.
+
+Crafting (in Workbench)
+Recipe	        Output
+6 Wood Planks	1 Boat
+
+Usage
+Boats are used primarily for the transportation of players across water and ice.
+
+Transportation
+Boats allow movement over water, land, and ice.
+
+Entering or Exiting
+PC: Right-click the boat to enter or exit it.
+Mobile: Tap the boat to enter or exit it.
+Additionally, you can exit the boat by crouching.
+
+Movement of the Boat
+PC: Control the boat using WASD or the arrow keys. To steer the boat, point the mouse in the desired direction.
+Mobile: Boat movement and control are similar to the PC version.
+
+More info
+
+If you do not exit the boat before teleporting, the boat will teleport with you.
+Boats can only be placed on water blocks. They can be moved onto land using teleportation, but will travel at a slower speed.
+Ice speeds up boats, sometimes causing them to go so fast that it interferes with anti-cheat systems, causing frequent slowdowns.
+Hitting a player sitting in a boat on water will cause them to experience more knockback than usual, which can also confuse the anti-cheat.
+Boats can sometimes phase through walls due to glitches (see Glitches for more details).
+If you die from void damage while in a boat, the boat will separate from you, fall a short distance, then bounce as if there was a bouncy material in the void before disappearing.
+Holding a Hang Glider or crouching while in a boat will eject you from the boat.
+When in a boat, a player will receive an effect called "Boating" with no set duration.
