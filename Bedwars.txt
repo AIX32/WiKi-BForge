@@ -1,0 +1,133 @@
+BedWars
+Creator: Arthur
+Description: Destroy your enemies' beds to win!
+
+BedWars is a team-based PvP (Player versus Player) game mode on Bloxd.io, where players battle to destroy each other's beds while protecting their own. The game takes place on islands suspended in the sky, where players must strategically defend their beds and eliminate their opponents. The goal is to break the enemy teams' beds, preventing them from respawning. Players who die after their bed is destroyed are permanently eliminated from the game.
+
+
+Diamond Island
+
+Diamond Island (also known as Mid) is the central island on most maps and contains Diamond generators. In maps like Wood Factory, there are multiple Diamond Islands, each with its own generator.
+
+Buffs
+Recent updates include changes to maps, added NPCs (or sellers), discounts on some items, and the introduction of new Lucky Items.
+
+Duos
+Duos is a mode where players are grouped into teams of two. You and your teammate work together to protect your bed and eliminate the other teams. There are eight teams in total.
+
+Solos
+Solos is a sub-game mode where each player is on their own, facing off against other solo players. This mode offers a more challenging experience, as you cannot rely on teammates.
+
+Squads
+Squads (formerly called 4v4v4v4) is a mode where players are grouped into teams of four. Teamwork is crucial for success, and players must cooperate to protect their beds and eliminate opponents.
+
+Beds
+Each team has a bed in their base, which must be protected. Once an enemy breaks your bed, you can still respawn, but after you die once, you are eliminated. Beds can be destroyed by various methods, except with Moonstone Explosives.
+
+Generators
+Generators are blocks that produce resources like Coal, Iron, Moonstone, and Diamonds. Moonstone and Diamond generators upgrade over time and cause beds to be destroyed when they reach their final stage.
+
+Main Generators
+Each team's base has a generator that produces Coal and Iron, which can be used to purchase blocks and items.
+
+Moonstone and Diamond Generators
+These generators spawn on islands around the map, producing Moonstone and Diamonds. They upgrade over time and increase in efficiency.
+
+Shop
+Players can purchase items using resources gathered from generators. Items include blocks, weapons, armor, and utilities. There are also Lucky Items, which are introduced periodically and can be found in special events.
+
+Losing Items when Dying
+Upon death, players lose the items in their inventory, but certain items, like armor and upgraded tools, are retained.
+
+Chests
+Normal Chest
+Each base contains a normal chest, which can only be accessed by the team in whose base it resides. This chest is used to store items that can be shared among team members.
+
+Moonstone Chest
+This chest stores resources and items, which remain accessible after death. It can be used to store valuable materials like Moonstone and Diamonds.
+
+Strategies with Moonstone Chest
+Players can use the Moonstone Chest to safeguard their resources in case of an attack or when planning a strategic assault.
+
+NPC (or Seller)
+Introduced in October 2024, the NPC seller provides an alternative way to access items instead of the traditional shop menu.
+
+Maps
+Duos and Solos Maps
+Scary Hollow: A map with a spooky theme, featuring Useless Soil and Magma blocks.
+Roads: A map designed with roads, featuring Moonstone islands represented by traffic cones.
+Bonsai: A forest-themed map with Palm Wood Planks and a large tree on Diamond Island.
+Nuclear: A map set in an abandoned nuclear reactor with hazardous holes in the center island.
+Pine: A map with tall mountains and a central middle island for easy access to resources.
+Wood Factory: A rectangular map with spread-out Diamond and Moonstone locations.
+Ringlands: A space-themed map where players battle on islands shaped like rings.
+Squads Maps
+Wheat: A farm-themed map with nearby bases and an accessible middle for fast attacks.
+Exradia: A larger map with far-apart bases, requiring longer travel times between resources.
+Knaul: A smaller map with nearby bases and fast access to the middle.
+WideandWild: A larger map with multiple ways to reach the middle and Moonstone islands.
+Western: A big map with distant bases, requiring strategic planning for reaching enemies.
+Right-hand Display
+The right-hand display shows stats for the player, including wins, kills, and games played. In-game, it displays the status of each team.
+
+Lucky Items
+Lucky Items are periodically introduced to the game and can be purchased in special events. Some recent additions include the Balloon, Launch Pad, and Tracking Compass.
+
+Variations
+There are different gameplay variations, including Lucky Chaos, Supercharged, and Launch Rush, which add unique twists to the standard BedWars gameplay.
+
+Tips
+Hide and wait for enemies to make mistakes to increase your chances of winning.
+Be strategic with your resources, focusing on upgrading your generators and acquiring powerful tools.
+Always protect your bed early in the game to prevent being caught off-guard.
+Trivia
+BedWars is one of the most popular PvP game modes on Bloxd.io, with constant updates and a dedicated player base.
+
+
+Items/blocks
+
+Blocks                         Combat                            Utility                            Team Upgrades
+---------------------------------------------------------------------------------------------------------------
+Name                Amount Purchased  Price        Info      Name                Amount Purchased  Price        Info
+---------------------------------------------------------------------------------------------------------------
+Wool                16                 8 Coal       It's the most Stone Sword        1                 24 Coal      Deal more damage than a wooden sword
+Maple Wood Planks   16                 8 Iron Bar   They're harder Iron Sword        -                 14 Iron Bar  -
+Baked Clay          16                 16 Coal      -             Diamond Sword      -                 4 Diamond    -
+Cracked Stone Bricks12                 40 Coal      -             Iron Armor         -                 24 Iron Bar  Give protection to yourself.
+Obsidian            4                  4 Diamond    -             Diamond Armor      -                 6 Diamond    -
+Maple Ladder        8                  12 Coal      Can placed on Stick               8                 4 Iron Bar   Give players knockback.
+Net                 4                  4 Iron Bar   Can slow players Stone Bow         14                4 Iron Bar   Use bow or crossbow to shoot arrows, and deal damages to player.
+                                                         Stone Crossbow   16                4 Iron Bar   -
+                                                         Arrow             2                 1 Iron Bar   -
+---------------------------------------------------------------------------------------------------------------
+Utility                                                                                      
+---------------------------------------------------------------------------------------------------------------
+Stone Pickaxe       1                  16 Coal      Can mine baked clay, cracked stone bricks and obsidian faster.
+Iron Pickaxe        0                  (Upgrades from the previous Pickaxe) 16 Coal
+Gold Pickaxe        4                  Iron Bar     
+Diamond Pickaxe     8                  Iron Bar
+Stone Axe           1                  16 Coal      Can mine wood planks and maple ladder faster.
+Iron Axe            0                  (Upgrades from the previous Axe) 16 Coal
+Gold Axe            4                  Iron Bar
+Diamond Axe         12                 Iron Bar
+Shears              1                  32 Coal      Break wools faster
+Fireball            60                 Coal         Hit players from a distance
+Iceball             80                 Coal
+Explosive (Moonstone) 16               Iron Bar     Blow up blocks (except obsidian)
+Bread               6                  Iron Bar     Eat to restore health.
+Plum                2                  Diamond      Eat to gain increased damage.
+Cracked Coconut     1                  Diamond      Eat to gain speed
+Pebble              16                 Coal         Throw at players - deal damage or knock them off
+Moonstone Orb       3                  Diamond      Teleport to the first place it touches
+---------------------------------------------------------------------------------------------------------------
+Team Upgrades
+---------------------------------------------------------------------------------------------------------------
+Damage I            6                  Moonstone    Increases the damage your team deals for this round
+Damage II           12                 Moonstone    -
+Damage III          22                 Moonstone    -
+Protection I        4                  Moonstone    Increases the damage reduction for your team for this round
+Protection II       8                  Moonstone    -
+Protection III      20                 Moonstone    -
+Generator I         4                  Moonstone    Your team's generator becomes faster (Generator III even spawns Diamonds)
+Generator II        8                  Moonstone    -
+Generator III       14                 Moonstone    -
