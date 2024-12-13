@@ -1,0 +1,28 @@
+Bloxd.io has undergone significant changes over time, especially in the introduction of new features and gamemodes. The game’s evolution was shaped by updates like the Decorative Update and the introduction of the gamemode voting system, which played a crucial role in the game's development.
+
+A Decorative Update
+The Decorative Update brought a significant change to the Peaceful mode. The addition of the Artisan Bench allowed players to craft colored planks and decorative blocks, enhancing the building and creative potential in the game. This was a pivotal moment for many professional builders in the Bloxd.io community, who embraced the new building options. The update led to an enduring preference for Peaceful mode among these players, even after subsequent gamemode changes.
+
+The First Gamemode Vote
+Following the Decorative Update, Mattzap, one of the key developers of Bloxd.io, introduced the concept of a gamemode vote. This allowed players to vote on which gamemodes they preferred, shaping the direction of the game’s future content.
+
+The Gamemodes
+OneBlock:
+In OneBlock, players spawned on a single block. By mining this block, players would receive various types of blocks, with the block respawning to ensure they didn’t fall off. The blocks available were limited to Dirt, Grass Block, Maple Log, Clay, and ores. Coal Ore could only be mined with a Moonstone pickaxe, and players had to mine it normally to obtain coal. While this was a promising start for the mode, OneBlock lost in the vote.
+
+Greenville:
+In Greenville, players could live out a simulated life. The game began with the selection of a house, after which players went to the town square to find work. They could mine blocks at the market or break them at the demolition site. As they continued to play, players could modify their homes, adding a layer of customization. Greenville proved to be more popular, and as a result, it won the vote, leading to OneBlock being temporarily removed from the game. OneBlock would later return in another vote.
+
+The Iron Watermelon Rumors
+In the summer of 2022, an entity known as the Iron Watermelon was added to Bloxd.io. The Iron Watermelon was an in-game entity that served as a jump-scare mechanism to prevent players from venturing too far from the spawn point, as the game’s world generation was still being perfected at the time. This mysterious entity became the subject of rumors and legends within the Bloxd.io community.
+
+The Second Gamemode Vote
+As the game continued to evolve, Arthur and Mattzap introduced another gamemode vote to give players more control over the game’s content. This time, OneBlock was brought back as one of the contenders, alongside a new gamemode called Bedwars.
+
+The Gamemodes
+OneBlock (Revisited):
+OneBlock returned with the same concept: spawning on a single block and mining it to receive various resources. The gameplay was largely unchanged, with players using the blocks they obtained to survive and build.
+
+Bedwars:
+The second option in the vote, Bedwars, was a PvP-based gamemode inspired by Minecraft's Hypixel version of the game. In Bedwars, players were divided into teams, each with their own island and bed. The goal was to protect your bed with various blocks and destroy other teams' beds. If a team's bed was destroyed, that team could no longer respawn. The last team with a bed standing won the game. Bedwars featured various resources like Coal, Iron, Gold, and Diamond, which were used to upgrade tools, armor, and build stronger defenses. The introduction of tools and weapons added a strategic layer, allowing players to break beds and defeat opponents more efficiently.
+
