@@ -1,0 +1,54 @@
+New Biomes, Blocks, and Updates in 2024/2023
+As Bloxd.io continued to evolve, 2024 brought new updates, including biomes, blocks, and significant gameplay changes. These updates not only expanded the world of Bloxd.io but also introduced new mechanics and systems that reshaped the gameplay experience.
+
+New Biomes and Blocks (January 4, 2024)
+To kick off the year, a new Snowy Plains biome was added, bringing fresh environmental variety to the game. Along with this biome, several new blocks and features were introduced:
+
+Ice: Walking on ice was now 1.4 times faster, making it a useful tool for quick traversal.
+Sandstone Bricks: These bricks were introduced, with credit given to the community member Dronyazka.
+Combat Logging System: A new system was added to prevent players from quitting during combat to avoid defeat, adding a layer of fairness to PvP gameplay.
+A glitch where players could teleport to themselves was also fixed, improving the overall stability of the game.
+Arthur promised more updates to come, including the Moonstone Pickaxe and additional biomes, which were released the following day.
+
+Silk Touch and Moonstone Pickaxe (January 5, 2024)
+As promised, Arthur introduced the Moonstone Pickaxe, which functioned similarly to the Silk Touch enchantment in Minecraft. This pickaxe allowed players to mine certain blocks in their original form. It also boasted a faster mining speed compared to the Diamond Pickaxe, making it a valuable tool for resource collection.
+
+Other notable changes included:
+
+The Snowy Plains biome now generated less frequently.
+New versions of Diorite, Andesite, and Granite were added, with engraved and brick variants.
+The "Press to Get" War Period (Unofficial Name)
+An unofficially named period dubbed the "Press to Get" war period took place when players discovered the Press to Get boards. This feature introduced new items like Fireballs, Iceballs, and Moonstone Explosives. These items became widely used, flooding the Bloxd.io servers with new servers centered around these explosive mechanics.
+
+Bedwars Update
+During the Press to Get period, Fireballs, Iceballs, and Moonstone Explosives were added to the Bedwars gamemode, which drastically changed the playstyle. These items were intended to add strategic depth, but they also made fort-building much more difficult, causing controversy within the community.
+
+A Controversial Gamemode Vote: Sky Wars vs. Prison
+In mid-2023, a controversial gamemode vote was held between Sky Wars and Prison, both created by Stardue. Although both modes had their merits, Sky Wars clearly won the vote, resulting in the fall of Bedwars as the favored gamemode.
+
+The Food Update (Unofficial Name)
+The Food Update introduced new crops that could be found in the world:
+
+Pumpkins: These became very powerful initially, as Pumpkin Pies provided a substantial damage boost (lasting a full minute). However, this was adjusted after a few days to balance gameplay.
+Watermelon and Melons: These crops also made their debut in the update, adding new food items to the game.
+Additionally, the Iron Watermelon, a rare item, was introduced and became one of the most coveted objects in the game.
+The Food Update Part 2 (Unofficial Name)
+The second part of the Food Update introduced a significant gameplay mechanic: Food Eating Time. Now, players could no longer eat food instantly by clicking once. Instead, they had to hold the right mouse button (RMB) to eat. This change was made to counter the "bread spam" technique, where players would quickly consume food and then switch back to their main weapon for quick healing.
+
+Notable changes in this update:
+
+Balance Changes: The eating time of foods was adjusted to prevent spamming. For example, Pumpkin Pie took longer to eat, making it less overpowered.
+Gold Melon Slices: Became the best healing food, capable of healing over 36 HP with a relatively fast eating time.
+Potion Update (Unofficial Name)
+The Potion Update introduced a variety of potions that players could craft and use to gain various advantages. Initially, three potions were available:
+
+Damage (Plums): Increased damage dealt.
+Speed (Coconuts): Boosted movement speed.
+Defense (Pears): Provided a defense boost.
+As the update progressed, more potions were added, including Splash Potions and Level II Potions, which expanded the strategic options in Sky Wars, where the addition of kits also helped to diversify gameplay.
+
+The Compass Update
+In a small update, the Compass item was added to the game. Designed by Stardue, the Compass was introduced to help prevent players from hiding in Sky Wars. It was less impactful in Survival mode but became more relevant in 2024, hinting at its future use.
+
+Plots vs. Prison: Another Gamemode Vote
+The Plots vs. Prison gamemode vote took place next, bringing Prison back with some tweaks and a slight rework. However, Plots, with its superflat design, gained more traction with the community, leading to another defeat for Prison. This vote marked the end of 2023 for Bloxd.io, leaving a significant impact on the direction of the game.
